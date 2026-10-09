@@ -1,0 +1,7 @@
+#configuracion exclusiva del equipo
+config/config.local.php
+
+#Archivo que generemos
+logs/
+temps/
+*.log
